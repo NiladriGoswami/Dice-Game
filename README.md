@@ -12,7 +12,7 @@ The technologies used to develope the Dice-Game are: <br />
 3. A pop-up appears by clicking the code button on the screen, there you will find a download button. <br />
 4. Download the folder. <br />
 5. Within the folder "Dice-Game" open "index.html" in your web browser. <br />
-6. Enjoy.
+6. Enjoy. <br />
 
 # Dice-Game : Rules
 - The game has 2 players, playing in rounds. <br />
