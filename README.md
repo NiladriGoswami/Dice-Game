@@ -33,3 +33,5 @@ The technologies used to develope the Dice-Game are: <br />
 # Credits
 #### Author:
 * Niladri Goswami(https://www.linkedin.com/in/niladri-goswami-0972a2118/).
+#### Link:
+https://jolly-lovelace-2f64bd.netlify.app
