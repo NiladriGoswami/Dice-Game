@@ -7,7 +7,7 @@ Css3.
 Javascript.
 
 # Installation
-Open the link of the github repository.
+Open the link of the github repository._
 Click on the code button provided ate the top of the list of files in the right side.
 A pop-up appears by clicking the code button on the screen, there you will find a download button.
 Download the folder.
