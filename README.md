@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice - Game
 The Dice Game is basically a simple game designed for two player's.
 # Technologies used
 The technologies used to develope the Dice-Game are: <br />
@@ -13,3 +13,5 @@ The technologies used to develope the Dice-Game are: <br />
 4. Download the folder. <br />
 5. Within the folder "Dice-Game" open "index.html" in your web browser. <br />
 6. Enjoy.
+
+# Dice - Game : Rules
