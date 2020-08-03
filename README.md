@@ -23,5 +23,5 @@ The technologies used to develope the Dice-Game are: <br />
 - The first player to reach 100 points on GLOBAL score wins the game. <br />
 
 # Credits
-#### Author
-* Niladri Goswami().
+#### Author:
+* Niladri Goswami(https://www.linkedin.com/in/niladri-goswami-0972a2118/).
