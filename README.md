@@ -6,7 +6,9 @@ Initially the player whose turn will be, "ROLL DICE" as many times as the player
 ![Gameplaying](https://user-images.githubusercontent.com/48457036/89185268-98f2c580-d5b7-11ea-85a0-d71443ecea0e.png)
 The 1st one to score 100 point's or above will be decided as the "WINNER" by the game. After the "WINNER" is decided, immediately the dice will disapear form the UI and no other button's except "NEW GAME" button will function, which say's that the game is over. <br />
 ![winner](https://user-images.githubusercontent.com/48457036/89185455-e2431500-d5b7-11ea-829b-680a46e94a85.png)
-If we click on the "NEW GAME", scores of the game in the UI will be reset to '0' saying that the new game has started and player's can enjoy by playing another round.
+If we click on the "NEW GAME", scores of the game in the UI will be reset to '0' saying that the new game has started and player's can enjoy by playing another round. <br />
+![Newgame](https://user-images.githubusercontent.com/48457036/89185576-19b1c180-d5b8-11ea-99b3-fdc0dcfd8ab4.png)
+
 #### Technologies used
 The technologies used to develope the Dice-Game are: <br />
 1. HTML5. <br />
