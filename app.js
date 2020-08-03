@@ -135,9 +135,9 @@ rulesShow.addEventListener('click', function() {
     swal({
         title: "Game Rules",
         text: "-   The game has 2 players, playing in rounds.\n"+
-        "-   In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score.\n"+
-        "-   BUT, if the player rolls a '1', all his ROUND score gets lost. After that, it's the next player's turn.\n"+
-        "-   The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn.\n"+
+        "-   In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his/her ROUND score.\n"+
+        "-   BUT, if the player rolls a '1', all his/her ROUND score gets lost. After that, it's the next player's turn.\n"+
+        "-   The player can choose to 'Hold', which means that his/her ROUND score gets added to his/her GLOBAL score. After that, it's the next player's turn.\n"+
         "-   The first player to reach 100 points on GLOBAL score wins the game" ,
         //icon: "success",
         button: null,
